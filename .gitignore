@@ -1,5 +1,5 @@
-  *.exe
-  *.o
-  *.obj
-  backup/
-  .vscode/
+*.exe
+*.o
+*.obj
+backup/
+.vscode/
